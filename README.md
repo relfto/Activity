@@ -3,7 +3,7 @@
 Hello everyone ,about project:
 1)So,this is to demonstrate navigation between activities
 
-2)Here,I have navigate from single screen having navigate button to GridCardLayout View
+2)Here,I have navigate from single screen doing counter related task  and having navigate button to GridCardLayout View,by clicking on navigate button.
 
 3)Having Pictures of Cars
 
@@ -15,3 +15,6 @@ Hello everyone ,about project:
 
 
 So,that's it a small demonstration of navigation as beginner.
+
+Exceptional task can be done:
+Nothing great,but data sharing.i.e, sharing counter value to grid layout screen and displaying it.
