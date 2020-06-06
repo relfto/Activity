@@ -16,5 +16,25 @@
         android:layout_marginLeft="93dp"
         android:layout_marginTop="312dp"
         android:text="Navigate To GridcardView" />
+    <Button
+        android:id="@+id/Bt2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="43dp"
+        android:text="Counter" />
+
+    <TextView
+        android:id="@+id/tx"
+        android:textSize="100dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="188dp"
+        android:text="0" />
+
+    
 
 </RelativeLayout>
